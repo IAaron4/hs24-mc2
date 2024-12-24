@@ -4,3 +4,5 @@ matplotlib
 scikit-image
 numba
 seaborn
+concurrent
+multiprocessing
