@@ -12,6 +12,10 @@
 profile_default/
 ipython_config.py
 
+adni_png/*
+001/*
+002/*
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
 
