@@ -11,6 +11,8 @@ test_matrices = [
     (5120, 5120, 5120),     # ~26M elements
     (8192, 4096, 8192),     # ~34M elements
     (10240, 10240, 10240),  # ~105M elements
+    (16384, 8192, 8192),    # ~134M elements
+    (20480, 20480, 20480)   # ~419M elements
 ]
 
 # Block configurations to test (threads_x, threads_y)
